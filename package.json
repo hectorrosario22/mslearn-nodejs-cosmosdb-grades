@@ -1,5 +1,5 @@
 {
-  "name": "grades",
+  "name": "mslearn-nodejs-cosmosdb-grades",
   "version": "1.0.0",
   "description": "Student and course grades maintenance",
   "main": "studentgrades.js",
